@@ -4,11 +4,11 @@
 
 ## Progress
 
-- [ ] 01 Variables and references
-- [ ] 02 Mutability
-- [ ] 03 Lists
-- [ ] 04 Dictionaries
-- [ ] 05 Tuples and sets
+- [x] 01 Variables and references
+- [x] 02 Mutability
+- [x] 03 Lists
+- [x] 04 Dictionaries
+- [x] 05 Tuples and sets
 - [ ] 06 Loops and membership
 - [ ] 07 Functions, scope and side effects
 - [ ] 08 Comprehensions and idiomatic tools
