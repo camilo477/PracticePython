@@ -9,7 +9,7 @@
 - [x] 03 Lists
 - [x] 04 Dictionaries
 - [x] 05 Tuples and sets
-- [ ] 06 Loops and membership
+- [x] 06 Loops and membership
 - [ ] 07 Functions, scope and side effects
 - [ ] 08 Comprehensions and idiomatic tools
 - [ ] 09 Exceptions
