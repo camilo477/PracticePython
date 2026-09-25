@@ -23,4 +23,3 @@ expenses = [
     for transaction in transactions if transaction < 0
 ]
 
-print(expenses)
