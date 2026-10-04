@@ -13,11 +13,11 @@
 - [x] 07 Functions, scope and side effects
 - [x] 08 Comprehensions and idiomatic tools
 - [x] 09 Exceptions
-- [ ] 10 Modules and packages
-- [ ] 11 Classes and composition
-- [ ] 12 Dataclasses and typing
-- [ ] 13 Iterables, iterators and generators
-- [ ] 14 Decorators
+- [x] 10 Modules and packages
+- [x] 11 Classes and composition
+- [x] 12 Dataclasses and typing
+- [x] 13 Iterables, iterators and generators
+- [x] 14 Decorators
 - [ ] 15 Files
 - [ ] 16 Testing and debugging
 # PracticPython
